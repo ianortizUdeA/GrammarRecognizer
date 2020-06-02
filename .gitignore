@@ -1,0 +1,6 @@
+venv/
+Rec_App.spec
+*.ico
+*.pyc
+build/
+.idea/
